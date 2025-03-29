@@ -187,3 +187,11 @@ Original paper by Olaf Ronneberger, Philipp Fischer, Thomas Brox:
 [U-Net: Convolutional Networks for Biomedical Image Segmentation](https://arxiv.org/abs/1505.04597)
 
 ![network architecture](https://i.imgur.com/jeDVpqF.png)
+
+
+
+数据得去到Kaggle上下
+carvana-image-masking-challenge
+下这俩
+train_hq.zip
+train_masks.zip
